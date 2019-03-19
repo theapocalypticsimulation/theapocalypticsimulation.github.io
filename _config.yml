@@ -1,10 +1,10 @@
-title: ""
-author: ""
-description: ""
+title: "The Apocalyptic Simulation"
+author: "The Facilitator"
+description: "Can A Group of Friends Survive Different Apocalyptic Situations? Find Out As We Follow Them To Hell And Back."
 
 # Jekyll settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
-paginate: 2                  # number of articles per page, remove to disable pagination
+paginate: 10                  # number of articles per page, remove to disable pagination
 excerpt_separator: "\n\n\n"  # indicates the end of the excerpt by two blank lines
 
 # Page settings
@@ -15,7 +15,7 @@ date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 
 # Theme settings
 style: default               # choose between "default", "contrast" and "minimal"
-dark_theme: false            # enables dark mode
+dark_theme: true            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
   - index.html
@@ -23,9 +23,9 @@ navigation:                  # (optional) site navigation in the header
   - about.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:"
+  envelope: "mailto:theapocalypticsimulation@gmail.com"
   github: "https://github.com"
-  rss: "/feed.xml"
+  rss: "https://anchor.fm/s/95b34a8/podcast/rss"
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
