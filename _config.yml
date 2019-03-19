@@ -25,7 +25,7 @@ navigation:                  # (optional) site navigation in the header
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:theapocalypticsimulation@gmail.com"
   github: "https://github.com"
-  rss: "https://anchor.fm/s/95b34a8/podcast/rss"
+  podcast: "https://anchor.fm/s/95b34a8/podcast/rss"
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
